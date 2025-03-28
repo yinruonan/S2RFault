@@ -21,7 +21,11 @@ Google Drive: https://drive.google.com/drive/folders/1wGi8R2BKnmzdgg1RYS6FjSBZtl
 <div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Opunake.jpg" width="400" alt="Kerry Results"/><br/></div>
 
 # Quick Start
-% for commands.
+Install all the requirements.
+Example of inference on Netherland offshore F3 data.  
+Download F3 from the shared link, and put it into 'data';
+Download the checkpoints from the shared link, and put them into 'model'；
+run command: python inference.py --model ./models/s2r_it_20k.pt --data ./data/F3.npy --save-filename F3_result_s2r --show
 
 # Contact us
 1421459549@qq.com
