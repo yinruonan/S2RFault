@@ -9,16 +9,16 @@ Google Drive: https://drive.google.com/drive/folders/1wGi8R2BKnmzdgg1RYS6FjSBZtl
 
 # Results
 ## Netherland offshore F3
-<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/F3.jpg" alt="F3 Results"/><br/></div>
+<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/F3.jpg" width="600" alt="F3 Results"/><br/></div>
 
 ## Kerry-3D
-<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Kerry.jpg" alt="Kerry Results"/><br/></div>
+<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Kerry.jpg" width="500" alt="Kerry Results"/><br/></div>
 
 ## Clyde
-<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Clyde.jpg" alt="Clyde Results"/><br/></div>
+<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Clyde.jpg" width="400" alt="Clyde Results"/><br/></div>
 
 ## Opunake-3D
-<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Opunake.jpg" alt="Kerry Results"/><br/></div>
+<div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Opunake.jpg" width="400" alt="Kerry Results"/><br/></div>
 
 # Quick Start
 % for commands.
