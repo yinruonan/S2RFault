@@ -21,7 +21,7 @@ Google Drive: https://drive.google.com/drive/folders/1wGi8R2BKnmzdgg1RYS6FjSBZtl
 <div align=center><img src="https://github.com/yinruonan/S2RFault/blob/master/imgs/Opunake.jpg" width="400" alt="Kerry Results"/><br/></div>
 
 # Quick Start
-Install all the requirements.
+Install all the requirements.<\br>
 Example of inference on Netherland offshore F3 data.  
 Download F3 from the shared link, and put it into 'data';
 Download the checkpoints from the shared link, and put them into 'model'；
